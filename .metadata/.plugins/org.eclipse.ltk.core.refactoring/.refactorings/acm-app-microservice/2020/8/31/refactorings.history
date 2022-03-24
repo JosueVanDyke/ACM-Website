@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;UserMapper.java&apos; to &apos;acm-app-microservice/src/main/java/com.acm.app.user.mapper&apos;&#x0D;&#x0A;- Original project: &apos;acm-app-microservice&apos;&#x0D;&#x0A;- Destination element: &apos;acm-app-microservice/src/main/java/com.acm.app.user.mapper&apos;&#x0D;&#x0A;- Original element: &apos;com.acm.app.user.mapper.UserMapper.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.acm.app.user.mapper" element1="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.acm.app.user.mapper{UserMapper.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1596324106937" units="1" version="1.0"/>
+</session>
